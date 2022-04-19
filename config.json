@@ -1,0 +1,24 @@
+{
+    "logFilePath": "/home/MKCLINDIA/mayurw/go/src/MahaVan/MahaVanServer/logs/MPVanMitraServer.log",
+    "isProduction": "false",
+    "log_maxBackupCount": "100",
+    "log_maxBackupFileSize": "10",
+    "log_maxAgeForBackupFiles": "30",
+    "serverPort": "4887",
+    "serverProfilingPort": "48870",
+    
+
+    "JWTSecretKey": "M#kclM@h@VAn$e&ryT$eY912837",
+    "restrictTokenKey": "qwertyuiopASDFGHJKL09876543",
+
+
+    "maxIdleDuration": "2h",
+
+    "MONGO_USERNAME": "",
+	"MONGO_PASSWORD": "",
+	"DBNAME": "Survey",
+	"PoolLimit": "1",
+	"MONGO_AUTHENTICATION_DB": "",
+    "MONGODSN": "localhost:27017",
+    "MONGO_MaxConnIdleTime": 180
+}
